@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ojoellou
-- 👀 I’m interested in product design and management.
-- 🌱 I’m currently learning User experience design and product management.
-- 💞️ I’m looking to collaborate on UX design projects.
+- 👀 I’m interested in technical product management.
+- 🌱 I’m currently learning software engineering and QA testing. I currently work as a product manager.
+- 💞️ I’m looking to collaborate on software development projects.
 - 📫 Reach me here
 
 <!---
