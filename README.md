@@ -1,4 +1,4 @@
-👋 Hi, I’m @ojoellou. 
+👋 Hi, I’m @ojoellou.  
 👀 I’m interested in technical product management  
 🌱 I’m currently learning software engineering and QA testing  
 💞️ I’m looking to collaborate on software development projects  
