@@ -1,6 +1,6 @@
 👋 Hi, I’m @ojoellou.  
 👀 I’m interested in technical product management  
-🌱 I’m currently learning software engineering and QA testing  
+🌱 I’m currently learning Java  
 💞️ I’m looking to collaborate on software development projects  
 📫 Reach me here ojoellois@yahoo.com 
 
